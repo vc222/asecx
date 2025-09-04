@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.10" apprev="18007" id="node1">
+  <input leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="4000" width="4000" overlap="1" levelingroll="0">
+    <level preload="0" height="4000" predecode="0" width="4000"/>
+    <level preload="0" height="2000" predecode="0" width="2000"/>
+    <level preload="0" height="1000" predecode="0" width="1000"/>
+    <level preload="1" height="500" predecode="1" width="500"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start pan="0" projection="4" fov="70" tilt="0"/>
+    <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+    <min pan="0" tilt="-90" fovpixel="2"/>
+    <max pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360" scaletofit="1"/>
+  </view>
+  <userdata longitude="" datetime="2025/9/3 16:32" copyright="" latitude="" nodeid="node1" customnodeid="" source="" comment="" author="" tags="Edge_Downloads" description="" title="" info="" heading="0"/>
+  <hotspots wordwrap="1" height="0" width="180">
+    <label wordwrap="1" bordercolor="0xffffff" border="0" backgroundcolor="0xffffff" borderalpha="1" height="0" width="180" background="1" textalpha="1" textcolor="0x000000" backgroundalpha="1" enabled="1" borderradius="1"/>
+    <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    <hotspot target="_blank" pan="-1.99" skinid="ht_image" tilt="0.43" description="" url="images/联想截图_20250904213122.png" title="神龛" id="Point01"/>
+    <hotspot target="_blank" pan="-1.56" skinid="ht_image" tilt="-18.52" description="" url="images/联想截图_20250904213106.png" title="火塘" id="Point02"/>
+    <hotspot target="" pan="-314.97" skinid="ht_image" tilt="-6.31" description="" url="images/联想截图_20250904213246.png" title="祖母床" id="Point03"/>
+    <hotspot target="" pan="-262.23" skinid="ht_image" tilt="6.68" description="" url="images/联想截图_20250904213237.png" title="女柱" id="Point04"/>
+    <hotspot target="" pan="-221.47" skinid="ht_image" tilt="-5.54" description="" url="images/联想截图_20250904213228.png" title="阳门" id="Point05"/>
+    <hotspot target="" pan="-147.54" skinid="ht_image" tilt="23.06" description="" url="images/联想截图_20250904213213.png" title="猪下巴" id="Point06"/>
+    <hotspot target="_blank" pan="-102.97" skinid="ht_image" tilt="-16.64" description="" url="images/联想截图_20250904213201.png" title="下梁" id="Point07"/>
+    <hotspot target="_blank" pan="-74.84" skinid="ht_image" tilt="11.81" description="" url="images/联想截图_20250904213143.png" title="男柱" id="Point08"/>
+    <hotspot target="_blank" pan="-63.47" skinid="ht_image" tilt="1.79" description="" url="images/联想截图_20250904213134.png" title="阴门" id="Point09"/>
+  </hotspots>
+  <media>
+    <sound pan="-1.000" ambientlevel="0.000" level="1.000" loop="1" startmutedmobile="0" mode="0" tilt="-1.000" nodechangekeep="0" tiltsize="10.000" pansize="10.000" field="90.000" id="_background">
+      <source url="media/接个吻，开一枪+-+烟袋斜街+-铃声_爱给网_aigei_com.mp3"/>
+    </sound>
+  </media>
+  <transition blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomspeed="2" zoomout="0" blendtime="1" zoomafteroutfov="20" softedge="0" enabled="1" type="crossdissolve" zoomfov="20" zoomoutpause="1"/>
+  <flyintransition speed="2.00" enabled="1"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control sensitivity="8" dblclickfullscreen="0" hideabout="0" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedkeyboard="0" contextprojections="0" speedwheel="1" simulatemass="1" lockedmouse="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+</panorama>
